@@ -6,7 +6,6 @@ Hi! My name is **Katrina DeLorenzo** and I am a fourth-year undergraduate CS stu
 * 👾 Currently learning React, Node.js, and AmazonAWS
 * 😄 Pronouns: _She/Her_
 * 🎮 Games I'm playing: Skyrim, ACNH, Stardew, Zelda
-* ⚡ Fun fact: I will ride any roller coaster!
 
 ### Skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
