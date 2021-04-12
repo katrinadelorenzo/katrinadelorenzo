@@ -2,10 +2,10 @@
 
 Hi! My name is **Katrina DeLorenzo** and I am a fourth-year undergraduate CS student at [Fordham University](https://www.fordham.edu/)! I just recently interned at an Esports/Sports startup company and am interested in a future of game software development! Here are some other facts about me:
 
-* 💼 Looking for full-time employment after graduation!
-* 👾 Currently learning React, Node.js, and AmazonAWS
+* 👾 Currently learning: React and AWS Serveless Infrastructure.
 * 😄 Pronouns: _She/Her_
 * 🎮 Games I'm playing: Skyrim, ACNH, Stardew, Zelda
+* 💡 Fun Fact: My favorite game, Stardew Valley, was written, designed and coded by one person: Eric Barone. 
 
 ### Skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
