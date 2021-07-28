@@ -1,6 +1,6 @@
 ## Katrina DeLorenzo - @katrinadelorenzo
 
-Hi! My name is **Katrina DeLorenzo** and I am a fourth-year undergraduate CS student at [Fordham University](https://www.fordham.edu/)! I just recently interned at an Esports/Sports startup company and am interested in a future of game software development! Here are some other facts about me:
+Hi! My name is **Katrina DeLorenzo** and I am a recent graduate of [Fordham University](https://www.fordham.edu/) with a bachelor's in computer science! I have experience interning at both a startup company as well as an established global company! My professional experience includes both full-stack development and business analysis. Here are some other facts about me:
 
 * 👾 Currently learning: React and AWS Serveless Infrastructure.
 * 😄 Pronouns: _She/Her_
