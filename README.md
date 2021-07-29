@@ -2,7 +2,7 @@
 
 Hi! My name is **Katrina DeLorenzo** and I am a recent graduate of [Fordham University](https://www.fordham.edu/) with a bachelor's in computer science! I have experience interning at both a startup company as well as an established global company! My professional experience includes both full-stack development and business analysis. Here are some other facts about me:
 
-* 👾 Currently learning: React and AWS Serveless Infrastructure.
+* 👾 Currently learning: React and AWS Serverless Infrastructure.
 * 😄 Pronouns: _She/Her_
 * 🎮 Games I'm playing: Skyrim, ACNH, Stardew, Zelda
 * 💡 Fun Fact: My favorite game, Stardew Valley, was written, designed and coded by one person: Eric Barone. 
