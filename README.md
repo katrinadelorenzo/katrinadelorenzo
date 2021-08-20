@@ -25,7 +25,7 @@ Hi! My name is **Katrina DeLorenzo** and I am a recent graduate of [Fordham Univ
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio 2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinadelorenzo)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinadelorenzo)](https://github.com/katrinadelorenzo)
 
 [![Katrina DeLorenzo's github stats](https://github-readme-stats.vercel.app/api?username=katrinadelorenzo&count_private=true&include_all_commits=true&theme=buefy)](https://google.com)
 
